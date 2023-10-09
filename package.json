@@ -1,0 +1,22 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "module",
+    "url": "git+https://github.com/AyushManiSharma/README-Generator.git"
+  },
+  "author": "Ayush",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AyushManiSharma/README-Generator/issues"
+  },
+  "homepage": "https://github.com/AyushManiSharma/README-Generator#readme",
+  "dependencies": {
+    "inquirer": "^9.2.11"
+  }
+}
