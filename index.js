@@ -1,6 +1,7 @@
 // import fetch from "node-fetch";
 const fs = require('fs');
-import { inquirer } from 'inquirer';
+const inquirer = require('inquirer');
+// import { inquirer } from 'inquirer';
 
 // Function to prompt user for input
 async function promptUser() {
